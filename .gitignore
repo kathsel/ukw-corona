@@ -1,5 +1,5 @@
 corappenv/
-data
+*.csv
 *.pyc
 .DS_Store
 .env
