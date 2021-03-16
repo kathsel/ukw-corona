@@ -1,0 +1,5 @@
+corappenv/
+data
+*.pyc
+.DS_Store
+.env
